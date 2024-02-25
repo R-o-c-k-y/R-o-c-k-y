@@ -9,26 +9,18 @@
 ![Discord](https://img.shields.io/badge/roc.ky-Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
-
-[![Motherboard - Asus ROG Strix X570](https://img.shields.io/static/v1?label=Motherboard&message=Asus+ROG+Strix+X570&color=2ea44f)](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x570-e-gaming-model/helpdesk_download/)[![AMD Ryzen - 7-3800x](https://img.shields.io/static/v1?label=AMD+Ryzen&message=7-3800x&color=ed1c24)](https://www.amd.com/en/support/cpu/amd-ryzen-processors/amd-ryzen-7-desktop-processors/amd-ryzen-7-3800x)[![Corsair DDR4 - 64gb](https://img.shields.io/static/v1?label=Corsair+DDR4&message=64gb&color=ECE81A)](https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16/vengeancea-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-black-cmw32gx4m2e3200c16#tab-techspecs)[![Samsung 980 Pro - 1tb](https://img.shields.io/static/v1?label=Samsung+980+Pro&message=1tb&color=1428A0)](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-1tb-mz-v8p1t0b-am/#support)[![Seagate BarraCuda - 2tb](https://img.shields.io/static/v1?label=Seagate+BarraCuda&message=2tb&color=6abf4a)](https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100817550n.pdf)
-
-[![Logitech - C922x Pro](https://img.shields.io/static/v1?label=Logitech&message=C922x+Pro&color=00ebd0)](https://support.logi.com/hc/en-us/articles/360053977993-Downloads-C922x-Pro-Stream-1080p-Webcam)[![RAZER  - Barracuda X](https://img.shields.io/static/v1?label=RAZER+&message=Barracuda+X&color=44d62c)](https://mysupport.razer.com/app/answers/detail/a_id/5521)
-
 ## PC Specs
+[![ASUS ROG STRIX - 2070 Super](https://img.shields.io/static/v1?label=ASUS+ROG+STRIX&message=2070+Super&color=008efb)](https://archive.org/web/)[![Motherboard - Asus ROG Strix X570](https://img.shields.io/static/v1?label=Motherboard&message=Asus+ROG+Strix+X570&color=2ea44f)](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x570-e-gaming-model/helpdesk_download/)[![AMD Ryzen - 7-3800x](https://img.shields.io/static/v1?label=AMD+Ryzen&message=7-3800x&color=ed1c24)](https://www.amd.com/en/support/cpu/amd-ryzen-processors/amd-ryzen-7-desktop-processors/amd-ryzen-7-3800x)[![Corsair DDR4 - 64gb](https://img.shields.io/static/v1?label=Corsair+DDR4&message=64gb&color=ECE81A)](https://www.corsair.com/us/en/p/memory/cmw32gx4m2e3200c16/vengeancea-rgb-pro-32gb-2-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-black-cmw32gx4m2e3200c16#tab-techspecs)
+
+[![Windows - 11](https://img.shields.io/static/v1?label=Windows&message=11&color=008efb)](https://www.microsoft.com/software-download/windows11)[![Logitech - C922x Pro](https://img.shields.io/static/v1?label=Logitech&message=C922x+Pro&color=00ebd0)](https://support.logi.com/hc/en-us/articles/360053977993-Downloads-C922x-Pro-Stream-1080p-Webcam)[![RAZER  - Barracuda X](https://img.shields.io/static/v1?label=RAZER+&message=Barracuda+X&color=44d62c)](https://mysupport.razer.com/app/answers/detail/a_id/5521)[![Samsung 980 Pro - 1tb](https://img.shields.io/static/v1?label=Samsung+980+Pro&message=1tb&color=1428A0)](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-1tb-mz-v8p1t0b-am/#support)[![Seagate BarraCuda - 2tb](https://img.shields.io/static/v1?label=Seagate+BarraCuda&message=2tb&color=6abf4a)](https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100817550n.pdf)
+
+
 ![image](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 AMD%20Ryzen_7_3800X
 • Camera: Logitech Webcam C920S HD Pro
 • Headset: Logitech G733 KDA
 • Microphone: Shure SM7B
 • Keyboard: Logitech G715
-• GOXLR
-• Mouse: Logitech G600 MMO Gaming Mouse
-• Motherboard: ASUS Prime Z390-A Motherboard LGA1151
-• Graphics Card: ZOTAC Gaming GeForce GTX 1660 Super 6GB
-• Monitor: Asus VG279 (dual monitors)
-• Ram: 2x T-Force Delta 8GB
-• Processor: Intel Core i5-9600K
-
 
 
 ### ---
